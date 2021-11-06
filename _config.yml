@@ -62,7 +62,31 @@ content:
          Academic Invovlements: University Honors Program, Phi Beta Kappa, McNair Scholars Program, Pi Mu Epsilon Math Honor Society 
          Service Involvements: Agape Service Organization, ESL tutor
          On-Campus Jobs: Tour Guide, LMU Center for Service and Action Community Based Learning Student Coordinator, Mathematics Teaching Assistant 
-        
+  
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: LMU Mathematics Research Assistant
+        # link_text: boringcompany.com
+        sub_title: LMU Honors Research Fellowship 
+        caption: September 2020 - Present
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+         - Working on an NSF-funded project examining equity and diversity in the computer science pipeline
+         - Comparing performance of linear regression, K-Nearest Neighbor, Support Vector Machine, XGBoost, and neural networks in education-related data sets with over 5 million entries
+      - layout: left
+        title: Tufts University Mathematics Research Assistant 
+        # link_text: boringcompany.com
+        sub_title: Visiting and Early Research Scholar's Experiences Program 
+        caption: June 2021 - August 2021
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+         - Working on an NSF-funded project examining equity and diversity in the computer science pipeline
+         - Comparing performance of linear regression, K-Nearest Neighbor, Support Vector Machine, XGBoost, and neural networks in education-related data sets with over 5 million entries
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
