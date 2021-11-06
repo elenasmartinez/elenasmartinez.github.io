@@ -59,9 +59,9 @@ content:
    #quote: >
     #      Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-         Academic Invovlements: 
-         Service Involvements: 
-         On-Campus Jobs: 
+         Academic Invovlements: University Honors Program, Phi Beta Kappa, McNair Scholars Program, Pi Mu Epsilon Math Honor Society 
+         Service Involvements: Agape Service Organization, ESL tutor
+         On-Campus Jobs: Tour Guide, LMU Center for Service and Action Community Based Learning Student Coordinator, Mathematics Teaching Assistant 
         
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
