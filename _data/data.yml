@@ -167,7 +167,7 @@ skills:
     - name: C
       level: 70%
 
-projects:
+articles:
   title: Articles
   assignments:
     - title: Sophomore Math/Computer Science Student Wins National Recognition
@@ -181,4 +181,3 @@ projects:
 
     - title: Elena Martinez applies math skills to human health
       link: "https://engineering.stanford.edu/news/elena-martinez-applies-math-skills-human-health"
-
