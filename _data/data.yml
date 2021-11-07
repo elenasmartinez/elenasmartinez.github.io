@@ -50,24 +50,44 @@ education:
       On-Campus Jobs: Tour Guide, LMU Center for Service and Action Community Based Learning Student Coordinator, Mathematics Teaching Assistant
 
 experiences:
-  - role: LMU Research Assistant
+  - role: Statistics and Machine Learning Resesarcher
     time: September 2020 - Present
-    company: LMU Honors Research Fellowship
+    company: Loyola Marymount University
     details: |
       - Working on an NSF-funded project examining equity and diversity in the computer science pipeline
       - Comparing performance of linear regression, K-Nearest Neighbor, Support Vector Machine, XGBoost, and neural networks in education-related data sets with over 5 million entries
-  - role: Tufts University Research Assistant
+  - role: Numerical Analysis Researcher
     time: June 2021 - August 2021
-    company: Visiting and Early Research Scholar's Experiences Program
+    company: Tufts University
     details: |
       - Generated a limited tomographic dataset using geometry, linear algebra, integration, differentiation, and MATLAB to categorize artifacts in tomographic reconstructions of bistatic radar systems
-  - role: Summer Undergraduate Research Fellowship, McNair Research Fellowship
+  - role: Math Modeling Researcher
     time: June 2020 - June 2021
-    company:
+    company: Stanford University
     details: |
       -  Programmed (in Python) a computational model to measure blood-pressure change at junctions 
       -  Tested the model using a repository of 105 patient-specific vascular models using Simvascular to extract measurements, measuring blood pressure at a total of 194,764 junctions
-      - 	Implemented our computational model to a 0D and 1D reduced-order model to calculate cardiovascular flow with greater accuracy than existing methods (Continued my SURF research)
+      -  Implemented our computational model to a 0D and 1D reduced-order model to calculate cardiovascular flow with greater accuracy than existing methods (Continued my SURF research)
+  - role: Software Engineering Intern
+    time: May 2020 - July 2020
+    company: Raytheon Technologies
+    details: |
+      -  Developed a Continuous Integration Pipeline application in JavaScript and C++ that utilized DevSecOps tools:
+      -  Jira, Bitbucket, Confluence, Jenkins, Cucumber, JUnit, Artifactory, Docker
+  - role: Components Engineering Intern
+    time: July 2019 - September 2019
+    company: Raytheon Technologies
+    details: |
+      -  Used HTML, CSS, Python, JavaScript, SQL, and to build and modify a website for hour allocation that processed
+         input, permissions, and financial budgets from an Oracle database
+         - role: Components Engineering Intern
+  - role: Coding Theory Researcher
+    time: May 2019 - June 2019
+    company: Loyola Marymount University
+    details: |
+      - Designed a Python communication channel using MATLAB, linear algebra, and modular arithmetic, created a
+        new class of error correcting codes (LDPCs), and executed 10,000 simulations to test efficiency of new method
+
 projects:
   title: Projects
   intro: >
