@@ -8,30 +8,23 @@ sidebar:
 
   # Profile information
   name: Elena Martinez
-  tagline: Full Stack Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: hello@webjeda.com
-  phone: 012 345 6789
-  website: blog.webjeda.com #do not add http://
+  email: elenasmartinez@gmail.com
   linkedin: elena-s-martinez
   github: elenasmartinez
-  gitlab:
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: http://www.africau.edu/images/default/sample.pdf
+  #pdf: http://www.africau.edu/images/default/sample.pdf
 
   languages:
-    - idiom: English
+    - idiom: Spanish
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Mandarin
+      level: Basic
 
   interests:
     - item: Climbing
@@ -46,73 +39,35 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I am a senior applied mathematics and computer science double major at Loyola Marymount University. I am interested in using mathematical models to address real-world problems.
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: B.S Computer Science, B.S Applied Math
+    university: Loyola Marymount University
+    time: 2018 - 2022
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Academic Invovlements: University Honors Program, Phi Beta Kappa, McNair Scholars Program, Pi Mu Epsilon Math Honor Society 
+      Service Involvements: Agape Service Organization, ESL tutor
+      On-Campus Jobs: Tour Guide, LMU Center for Service and Action Community Based Learning Student Coordinator, Mathematics Teaching Assistant
+
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: LMU Research Assistant
+    time: September 2020 - Present
+    company: LMU Honors Research Fellowship
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      - Working on an NSF-funded project examining equity and diversity in the computer science pipeline
+      - Comparing performance of linear regression, K-Nearest Neighbor, Support Vector Machine, XGBoost, and neural networks in education-related data sets with over 5 million entries
+  - role: Tufts University Research Assistant
+    time: June 2021 - August 2021
+    company: Visiting and Early Research Scholar's Experiences Program
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      - Generated a limited tomographic dataset using geometry, linear algebra, integration, differentiation, and MATLAB to categorize artifacts in tomographic reconstructions of bistatic radar systems
+  - role: Summer Undergraduate Research Fellowship, McNair Research Fellowship
+    time: June 2020 - June 2021
+    company:
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      -  Programmed (in Python) a computational model to measure blood-pressure change at junctions 
+      -  Tested the model using a repository of 105 patient-specific vascular models using Simvascular to extract measurements, measuring blood pressure at a total of 194,764 junctions
+      - 	Implemented our computational model to a 0D and 1D reduced-order model to calculate cardiovascular flow with greater accuracy than existing methods (Continued my SURF research)
 projects:
   title: Projects
   intro: >
