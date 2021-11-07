@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -27,13 +27,13 @@ sidebar:
       level: Basic
 
   interests:
-    - item: Climbing
+    - item: Writing Poetry
       link:
 
-    - item: Snowboarding
+    - item: Dancing ballet Folklorico
       link:
 
-    - item: Cooking
+    - item: Running and playing soccer
       link:
 
 career-profile:
@@ -45,8 +45,8 @@ education:
     university: Loyola Marymount University
     time: 2018 - 2022
     details: |
-      Academic Invovlements: University Honors Program, Phi Beta Kappa, McNair Scholars Program, Pi Mu Epsilon Math Honor Society 
-      Service Involvements: Agape Service Organization, ESL tutor
+      Academic Invovlements: University Honors Program, Phi Beta Kappa, McNair Scholars Program, Pi Mu Epsilon Math Honor Society, SIAM Chapter President
+      Service Involvements: Agape Service Organization, ESL tutor, Women in Data Science Education Outreach Commitee
       On-Campus Jobs: Tour Guide, LMU Center for Service and Action Community Based Learning Student Coordinator, Mathematics Teaching Assistant
 
 experiences:
@@ -80,7 +80,6 @@ experiences:
     details: |
       -  Used HTML, CSS, Python, JavaScript, SQL, and to build and modify a website for hour allocation that processed
          input, permissions, and financial budgets from an Oracle database
-         - role: Components Engineering Intern
   - role: Coding Theory Researcher
     time: May 2019 - June 2019
     company: Loyola Marymount University
@@ -90,74 +89,79 @@ experiences:
 
 projects:
   title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+ 
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: "Where You At" Webapp 
+     # link: "#hook"
+      tagline: Developed a time-management webapp using JavaScript, HTML, CSS, Python, and the Google Calendar API 
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Global Policy Institute Initiative 
+     # link: "#"
+      tagline: Analyzing survey-data using computational methods and visuals to determine American perception of the United
+                States’ relationship with China regarding economic, military, humanitarian, and climate issues
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: An Intuitive Electronic Medical Records (EMR) for Inundated Health Care Practioners 
+   #   link: "#"
+      tagline: Creating an EMR for underserved clinics that cannot afford large-scale EMRs
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#publications:
+ # title: Publications
+  #intro: |
+  #  You can list your publications in this section. Lorem ipsum dolor sit
+  #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+  #  bibendum fringilla a eu lectus.
+ # papers:
+  #  - title: The Art of Computer Programming
+  #    link: "#"
+  #    authors: Donald E. Knuth
+  #    conference: Addison-Wesley, 1968
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+   # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+   #   link: "#"
+   #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+ #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
+ #  - title: A syntax directed compiler for Algol 60
+ #     link: "#"
+ #     authors: Edgar T. Irons
+ #     conference: "Comm. ACM 4 (1961), 51–55"
 
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+awards: 
+  - Barry Goldwater scholarship  (2021)
+  - HITEC scholarship (2021)
+  - HACU Cafe Bustelos Scholarship (2021)
+  - Edison International Scholarship (2020)
+  - Northrop Grumman Scholarship (2019)
+  - Great Minds in STEM Outstanding Student Leadership Award (2019)
+  - ASA Fall Data Challenge Overall Winner (2019)
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
-      level: 98%
+    - name: Python
+      level: 100%
 
-    - name: Javascript & jQuery
-      level: 98%
+    - name: Javascript
+      level: 100%
 
-    - name: Angular
-      level: 98%
+    - name: LaTex
+      level: 100%
 
-    - name: HTML5 & CSS
+    - name: Java
       level: 95%
 
-    - name: Ruby on Rails
+    - name: HTML5 & CSS
+      level: 93%
+
+    - name: R
       level: 85%
 
-    - name: Sketch & Photoshop
-      level: 60%
+    - name: MATLAB
+      level: 80%
+
+    - name: C
+      level: 70%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
