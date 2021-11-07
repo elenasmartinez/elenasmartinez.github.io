@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -89,58 +89,60 @@ experiences:
 projects:
   title: Projects
   intro: >
-    These are projects I have worked on 
+    These are projects I have worked on
 
   assignments:
-    - title: Where You At Webapp 
-     # link: "#hook"
-      tagline: Developed a time-management webapp using JavaScript, HTML, CSS, Python, and the Google Calendar API 
+    - title: Where You At Webapp
+      # link: "#hook"
+      tagline: Developed a time-management webapp using JavaScript, HTML, CSS, Python, and the Google Calendar API
 
-    - title: Global Policy Institute Initiative 
-     # link: "#"
-      tagline: Analyzing survey-data using computational methods and visuals to determine American perception of the United
-                States’ relationship with China regarding economic, military, humanitarian, and climate issues
+    - title: Global Policy Institute Initiative
+      # link: "#"
+      tagline:
+        Analyzing survey-data using computational methods and visuals to determine American perception of the United
+        States’ relationship with China regarding economic, military, humanitarian, and climate issues
 
-    - title: An Intuitive Electronic Medical Records (EMR) for Inundated Health Care Practioners 
-   #   link: "#"
+    - title: An Intuitive Electronic Medical Records (EMR) for Inundated Health Care Practioners
+      #   link: "#"
       tagline: Creating an EMR for underserved clinics that cannot afford large-scale EMRs
-    
-articles: 
-  - title: Sophomore Math/Computer Science Student Wins National Recognition
-      link: https://seavernews.lmu.edu/2019/11/20/sophomore-math-major-wins-national-recognition/
- 
-  - title:  Mathematics and Computer Science Double Major Awarded Goldwater Scholarship
-      link: "https://seavernews.lmu.edu/2021/06/16/mathematics-and-computer-science-double-major-awarded-goldwater-scholarship/"
+
+articles:
+  - title:
+      Sophomore Math/Computer Science Student Wins National Recognition
+      #link: https://seavernews.lmu.edu/2019/11/20/sophomore-math-major-wins-national-recognition/
+
+  - title: Mathematics and Computer Science Double Major Awarded Goldwater Scholarship
+  #      link: "https://seavernews.lmu.edu/2021/06/16/mathematics-and-computer-science-double-major-awarded-goldwater-scholarship/"
 
   - title: Mentoring Undergrads in Math to Create STEM Opportunities
-      link: "https://now.tufts.edu/articles/mentoring-undergrads-math-create-stem-opportunities"
-  
+  #     link: "https://now.tufts.edu/articles/mentoring-undergrads-math-create-stem-opportunities"
+
   - title: Elena Martinez applies math skills to human health
-      link: "https://engineering.stanford.edu/news/elena-martinez-applies-math-skills-human-health"
-  
-        #publications:
- # title: Publications
+  #    link: "https://engineering.stanford.edu/news/elena-martinez-applies-math-skills-human-health"
+
+  #publications:
+  # title: Publications
   #intro: |
   #  You can list your publications in this section. Lorem ipsum dolor sit
   #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
   #  bibendum fringilla a eu lectus.
- # papers:
+  # papers:
   #  - title: The Art of Computer Programming
   #    link: "#"
   #    authors: Donald E. Knuth
   #    conference: Addison-Wesley, 1968
 
-   # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-   #   link: "#"
-   #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
- #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  #   link: "#"
+  #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+  #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
- #  - title: A syntax directed compiler for Algol 60
- #     link: "#"
- #     authors: Edgar T. Irons
- #     conference: "Comm. ACM 4 (1961), 51–55"
+  #  - title: A syntax directed compiler for Algol 60
+  #     link: "#"
+  #     authors: Edgar T. Irons
+  #     conference: "Comm. ACM 4 (1961), 51–55"
 
-awards: 
+awards:
   - Barry Goldwater scholarship  (2021)
   - HITEC scholarship (2021)
   - HACU Cafe Bustelos Scholarship (2021)
@@ -179,4 +181,3 @@ skills:
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-
