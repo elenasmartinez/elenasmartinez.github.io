@@ -36,15 +36,6 @@ sidebar:
     - item: Running and playing soccer
       link:
 
-projects:
-  title: Projects
-
-  assignments:
-    - title: "Where You At" Webapp 
-     # link: "#hook"
-      tagline: Developed a time-management webapp using JavaScript, HTML, CSS, Python, and the Google Calendar API 
-
-
 career-profile:
   title: Career Profile
   summary: |
@@ -97,9 +88,11 @@ experiences:
         new class of error correcting codes (LDPCs), and executed 10,000 simulations to test efficiency of new method
 projects:
   title: Projects
-
+  intro: >
+    These are projects I have worked on 
+    
   assignments:
-    - title: "Where You At" Webapp 
+    - title: Where You At Webapp 
      # link: "#hook"
       tagline: Developed a time-management webapp using JavaScript, HTML, CSS, Python, and the Google Calendar API 
 
