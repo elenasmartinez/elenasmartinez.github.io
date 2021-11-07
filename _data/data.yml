@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -46,9 +46,8 @@ education:
     time: 2018 - 2022
     details: |
       Academic Invovlements: University Honors Program, Phi Beta Kappa, McNair Scholars Program, Pi Mu Epsilon Math Honor Society, SIAM Chapter President
-      Service Involvements: Agape Service Organization, ESL tutor, Women in Data Science Education Outreach Commitee
+      Service Involvements: Agape Service Organization, ESL tutor,  Women in Data Science Education Outreach Commitee
       On-Campus Jobs: Tour Guide, LMU Center for Service and Action Community Based Learning Student Coordinator, Mathematics Teaching Assistant
-
 experiences:
   - role: Statistics and Machine Learning Resesarcher
     time: September 2020 - Present
@@ -80,16 +79,16 @@ experiences:
     details: |
       -  Used HTML, CSS, Python, JavaScript, SQL, and to build and modify a website for hour allocation that processed
          input, permissions, and financial budgets from an Oracle database
+         - role: Components Engineering Intern
   - role: Coding Theory Researcher
     time: May 2019 - June 2019
     company: Loyola Marymount University
     details: |
       - Designed a Python communication channel using MATLAB, linear algebra, and modular arithmetic, created a
         new class of error correcting codes (LDPCs), and executed 10,000 simulations to test efficiency of new method
-
 projects:
   title: Projects
- 
+
   assignments:
     - title: "Where You At" Webapp 
      # link: "#hook"
@@ -103,7 +102,7 @@ projects:
     - title: An Intuitive Electronic Medical Records (EMR) for Inundated Health Care Practioners 
    #   link: "#"
       tagline: Creating an EMR for underserved clinics that cannot afford large-scale EMRs
-
+    
 articles: 
   - title: Sophomore Math/Computer Science Student Wins National Recognition
       link: "https://seavernews.lmu.edu/2019/11/20/sophomore-math-major-wins-national-recognition/"
@@ -117,7 +116,7 @@ articles:
   - title: Elena Martinez applies math skills to human health
       link: "https://engineering.stanford.edu/news/elena-martinez-applies-math-skills-human-health"
   
-      #publications:
+        #publications:
  # title: Publications
   #intro: |
   #  You can list your publications in this section. Lorem ipsum dolor sit
@@ -178,3 +177,4 @@ skills:
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
