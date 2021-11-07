@@ -107,17 +107,17 @@ projects:
       tagline: Creating an EMR for underserved clinics that cannot afford large-scale EMRs
 
 articles:
-   title: Articles
+  - title:
+      Sophomore Math/Computer Science Student Wins National Recognition
       #link: https://seavernews.lmu.edu/2019/11/20/sophomore-math-major-wins-national-recognition/
-  assignments: 
-    - title: Sophomore Math/Computer Science Student Wins National Recognition
-    - title: Mathematics and Computer Science Double Major Awarded Goldwater Scholarship
+
+  - title: Mathematics and Computer Science Double Major Awarded Goldwater Scholarship
   #      link: "https://seavernews.lmu.edu/2021/06/16/mathematics-and-computer-science-double-major-awarded-goldwater-scholarship/"
 
-    - title: Mentoring Undergrads in Math to Create STEM Opportunities
+  - title: Mentoring Undergrads in Math to Create STEM Opportunities
   #     link: "https://now.tufts.edu/articles/mentoring-undergrads-math-create-stem-opportunities"
 
-    - title: Elena Martinez applies math skills to human health
+  - title: Elena Martinez applies math skills to human health
   #    link: "https://engineering.stanford.edu/news/elena-martinez-applies-math-skills-human-health"
 
   #publications:
@@ -144,13 +144,14 @@ articles:
 
 awards:
   title: Awards
-  - Barry Goldwater scholarship  (2021)
-  - HITEC scholarship (2021)
-  - HACU Cafe Bustelos Scholarship (2021)
-  - Edison International Scholarship (2020)
-  - Northrop Grumman Scholarship (2019)
-  - Great Minds in STEM Outstanding Student Leadership Award (2019)
-  - ASA Fall Data Challenge Overall Winner (2019)
+  papers:
+    - title: Barry Goldwater scholarship  (2021)
+    - title: HITEC scholarship (2021)
+    - title: HACU Cafe Bustelos Scholarship (2021)
+    - title: Edison International Scholarship (2020)
+    - title: Northrop Grumman Scholarship (2019)
+    - title: Great Minds in STEM Outstanding Student Leadership Award (2019)
+    - title: ASA Fall Data Challenge Overall Winner (2019)
 
 skills:
   title: Skills &amp; Proficiency
