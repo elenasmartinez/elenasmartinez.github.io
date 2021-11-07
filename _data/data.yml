@@ -104,7 +104,20 @@ projects:
    #   link: "#"
       tagline: Creating an EMR for underserved clinics that cannot afford large-scale EMRs
 
-#publications:
+articles: 
+  - title: Sophomore Math/Computer Science Student Wins National Recognition
+      link: "https://seavernews.lmu.edu/2019/11/20/sophomore-math-major-wins-national-recognition/"
+ 
+  - title:  Mathematics and Computer Science Double Major Awarded Goldwater Scholarship
+      link: "https://seavernews.lmu.edu/2021/06/16/mathematics-and-computer-science-double-major-awarded-goldwater-scholarship/"
+
+  - title: Mentoring Undergrads in Math to Create STEM Opportunities
+      link: "https://now.tufts.edu/articles/mentoring-undergrads-math-create-stem-opportunities"
+  
+  - title: Elena Martinez applies math skills to human health
+      link: "https://engineering.stanford.edu/news/elena-martinez-applies-math-skills-human-health"
+  
+      #publications:
  # title: Publications
   #intro: |
   #  You can list your publications in this section. Lorem ipsum dolor sit
