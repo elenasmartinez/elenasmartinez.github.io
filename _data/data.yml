@@ -36,6 +36,15 @@ sidebar:
     - item: Running and playing soccer
       link:
 
+projects:
+  title: Projects
+
+  assignments:
+    - title: "Where You At" Webapp 
+     # link: "#hook"
+      tagline: Developed a time-management webapp using JavaScript, HTML, CSS, Python, and the Google Calendar API 
+
+
 career-profile:
   title: Career Profile
   summary: |
