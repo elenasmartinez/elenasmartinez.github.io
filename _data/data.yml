@@ -39,7 +39,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am a senior applied mathematics and computer science double major at Loyola Marymount University. I am interested in using mathematical models to address real-world problems.
+    I am a senior applied mathematics and computer science double major at Loyola Marymount University. I am interested in using mathematical and computational methods to address real-world problems.
 education:
   - degree: B.S Computer Science, B.S Applied Math
     university: Loyola Marymount University
@@ -65,21 +65,19 @@ experiences:
     company: Stanford University
     details: |
       -  Programmed (in Python) a computational model to measure blood-pressure change at junctions 
-      -  Tested the model using a repository of 105 patient-specific vascular models using Simvascular to extract measurements, measuring blood pressure at a total of 194,764 junctions
-      -  Implemented our computational model to a 0D and 1D reduced-order model to calculate cardiovascular flow with greater accuracy than existing methods (Continued my SURF research)
+      -  Tested the model using a repository of 105 patient-specific vascular models using Simvascular, measuring blood pressure at a total of 194,764 junctions
+      -  Implemented my work to a 0D and 1D reduced-order model to calculate cardiovascular flow with greater accuracy than existing methods (Continued my SURF research)
   - role: Software Engineering Intern
     time: May 2020 - July 2020
     company: Raytheon Technologies
     details: |
-      -  Developed a Continuous Integration Pipeline application in JavaScript and C++ that utilized DevSecOps tools:
-      -  Jira, Bitbucket, Confluence, Jenkins, Cucumber, JUnit, Artifactory, Docker
+      -  Developed a Continuous Integration Pipeline application in JavaScript and C++ that utilized DevSecOps tools: Jira, Bitbucket, Confluence, Jenkins, Cucumber, JUnit, Artifactory, Docker
   - role: Components Engineering Intern
     time: July 2019 - September 2019
     company: Raytheon Technologies
     details: |
       -  Used HTML, CSS, Python, JavaScript, SQL, and to build and modify a website for hour allocation that processed
          input, permissions, and financial budgets from an Oracle database
-         - role: Components Engineering Intern
   - role: Coding Theory Researcher
     time: May 2019 - June 2019
     company: Loyola Marymount University
